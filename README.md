@@ -1,2 +1,2 @@
 # desafioPython
-resolucao desafios Novo Seguros
+desafio de lógica de programacao com python Novo Seguros
